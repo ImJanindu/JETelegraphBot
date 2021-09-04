@@ -1,6 +1,6 @@
 # Telegraph Bot
 
-## You can upload photos and videos to telegraph using this bot. Can be found in telegram as [@JETelegraphBot](https://t.me/JETelegraphBot)
+## You can upload photos and videos to telegraph using this bot. Can be found in telegram as [@JETelegraphBot](http://t.me/tele_uploader_bot)
 
 ### Deploy to Heroku 🏃‍♂
 
@@ -8,10 +8,10 @@
 
 ### Credits:
 
-[Infinity BOTs](https://t.me/Infinity_BOTs)
+[Infinity BOTs](https://t.me/rythmsupport)
 
 [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
 ### Developers:
 
-[@ImJanindu](https://t.me/ImJanindu)
+[@Its_badnam](https://t.me/Its_badnam)
