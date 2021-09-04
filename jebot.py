@@ -17,9 +17,9 @@ async def start(client, message):
    if message.chat.type == 'private':
        await Jebot.send_message(
                chat_id=message.chat.id,
-               text="""<b>Hey There, I'm Telegraph Bot
+               text="""<b>Hey There, I'm Rythm Bot
 
-I can upload photos or videos to telegraph. Made by @ImJanindu 🇱🇰
+I can upload photos or videos to telegraph. Made by @Rythmsupport 👻
 
 Hit help button to find out more about how to use me</b>""",   
                             reply_markup=InlineKeyboardMarkup(
@@ -27,10 +27,10 @@ Hit help button to find out more about how to use me</b>""",
                                         InlineKeyboardButton(
                                             "Help", callback_data="help"),
                                         InlineKeyboardButton(
-                                            "Channel", url="https://t.me/Infinity_BOTs")
+                                            "Channel", url="https://t.me/Rythmupdate")
                                     ],[
                                       InlineKeyboardButton(
-                                            "Source Code", url="https://github.com/ImJanindu/JETelegraphBot")
+                                            "Support", url="https://t.me/rythmsupport")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
@@ -45,7 +45,7 @@ async def help(client, message):
 
 Just send a photo or video less than 5mb file size, I'll upload it to telegraph.
 
-~ @Infinity_BOTs</b>""",
+~ @Rythmsupport</b>""",
         reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
@@ -54,7 +54,7 @@ Just send a photo or video less than 5mb file size, I'll upload it to telegraph.
                                             "About", callback_data="about"),
                                   ],[
                                         InlineKeyboardButton(
-                                            "Source Code", url="https://github.com/ImJanindu/JETelegraphBot")
+                                            "SUPPORT", url="https://t.me/rythmsupport")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
@@ -67,19 +67,17 @@ async def about(client, message):
                chat_id=message.chat.id,
                text="""<b>About Telegraph Bot!</b>
 
-<b>♞ Developer:</b> <a href="https://t.me/ImJanindu">Janindu 🇱🇰</a>
+<b>♞ Developer:</b> <a href="https://t.me/Its_badnam">Badnam 👻</a>
 
-<b>♞ Support:</b> <a href="https://t.me/InfinityBOTs_Support">Infinity BOTs Support</a>
+<b>♞ Support:</b> <a href="https://t.me/Rythmsupport">Rythm Support</a>
 
-<b>♞ Library:</b> <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
-
-<b>~ @Infinity_BOTs</b>""",
+<b>~ @rythmsupport</b>""",
      reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
                                             "Back", callback_data="help"),
                                         InlineKeyboardButton(
-                                            "Source Code", url="https://github.com/ImJanindu/JETelegraphBot")
+                                            "Support", url="https://t.me/rythmsupport")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
@@ -149,7 +147,7 @@ async def button(bot, update):
 print(
     """
 Bot Started!
-Join @Infinity_BOTs
+Join @rythmsupport
 """
 )
 
