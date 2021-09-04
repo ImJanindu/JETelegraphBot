@@ -14,4 +14,4 @@
 
 ### Developers:
 
-[@Its_badnam](https://t.me/Its_badnam)
+[@Its_badnam](https://t.me/Its_badnam/button.svg)
