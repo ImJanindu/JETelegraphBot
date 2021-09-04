@@ -12,6 +12,7 @@
 
 [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
-### Developers:
+### 🖤 ᴄʀᴇᴀᴛᴏʀ 🖤
 
-[@ImJanindu](https://t.me/ImJanindu)
+[![telegram badge](https://img.shields.io/badge/Badnam-30302f?style=for-the-badge&logo=telegram)](https://t.me/Badnam_op)
+
